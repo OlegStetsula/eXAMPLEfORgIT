@@ -8,7 +8,7 @@ namespace ExampleForGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello agein!");
-            Console.WriteLine("Hello Hello!");
+            Console.WriteLine("Hello H e l l o!");
         }
     }
 }
